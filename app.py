@@ -5,7 +5,7 @@ import numpy as np
 import os
 import sqlite3
 from datetime import datetime
-from tensorflow.keras.models import load_model
+from keras.models import load_model
 import base64
 
 # -------------------------------
